@@ -39,6 +39,8 @@
 </div>
 
 <strong><h2>📊Stat</h2></strong>
+<img src="https://github-readme-stats.vercel.app/api?username=jun-young1993&show_icons=true&theme=radical" />        
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-young1993&layout=donut-vertical" />
 <div align="center">
     <div align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=jun-young1993&show_icons=true&theme=radical" />        
