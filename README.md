@@ -12,7 +12,7 @@
 <br />
 <strong><h2>↪Site</h2></strong>
 
-![PHP](https://img.shields.io/badge/blog-8ed11a?style=for-the-badge&logo=blogger) ![laravel](https://img.shields.io/badge/blog-8ed95a?style=for-the-badge&logo=blogger)
+![PHP](https://img.shields.io/badge/blog-8ed11a?style=for-the-badge&logo=blogger)
 
 <br />
 
