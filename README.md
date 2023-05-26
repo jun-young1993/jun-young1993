@@ -34,9 +34,16 @@
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/wervlad)
-
-<p align="center">
+<div align="center">
+    <div align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-young1993&layout=donut-vertical" />
+    </div>    
+    <div align="right">
+        <img src="https://github-readme-stats.vercel.app/api?username=jun-young1993&show_icons=true&theme=radical" />        
+    </div>
+</div>
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-young1993&layout=compact" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-young1993&layout=donut-vertical" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-young1993&layout=donut-vertical" />
 <img src="https://github-readme-stats.vercel.app/api?username=jun-young1993&show_icons=true&theme=radical" />
-</p>
+</p> -->
