@@ -38,6 +38,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
+<strong><h2>📊Stat</h2></strong>
 <div align="center">
     <div align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=jun-young1993&show_icons=true&theme=radical" />        
@@ -47,8 +48,4 @@
     </div>    
     
 </div>
-<!-- <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-young1993&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-young1993&layout=donut-vertical" />
-<img src="https://github-readme-stats.vercel.app/api?username=jun-young1993&show_icons=true&theme=radical" />
-</p> -->
+
