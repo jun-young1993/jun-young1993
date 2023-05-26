@@ -10,7 +10,7 @@
     <strong><em>juny3738@gmail.com</em></strong>
 </p>
 <br />
-<strong><h3>👨‍💻Tech Stack</h3></strong>
+<strong><h2>👨‍💻Tech Stack</h2></strong>
 
 ![PHP](https://img.shields.io/badge/php-8ed95a?style=for-the-badge&logo=php) ![laravel](https://img.shields.io/badge/laravel-8ed95a?style=for-the-badge&logo=laravel)
 
@@ -25,11 +25,12 @@
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/wervlad)
 <div align="center">
     <div align="left">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-young1993&layout=donut-vertical" />
-    </div>    
-    <div align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=jun-young1993&show_icons=true&theme=radical" />        
     </div>
+    <div align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-young1993&layout=donut-vertical" />
+    </div>    
+    
 </div>
 <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-young1993&layout=compact" />
