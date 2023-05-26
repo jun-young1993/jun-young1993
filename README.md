@@ -20,17 +20,24 @@
 
 <strong><h2>👨‍💻Tech Stack</h2></strong>
 
-![PHP](https://img.shields.io/badge/php-8ed95a?style=for-the-badge&logo=php) ![laravel](https://img.shields.io/badge/laravel-8ed95a?style=for-the-badge&logo=laravel)
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
-![node.js](https://img.shields.io/badge/node.js-b9f0e9?style=for-the-badge&logo=node.js) ![electron](https://img.shields.io/badge/electron-b9f0e9?style=for-the-badge&logo=electron) ![javascript](https://img.shields.io/badge/javascript-b9f0e9?style=for-the-badge&logo=javascript) ![nextjs](https://img.shields.io/badge/next.js-b9f0e9?style=for-the-badge&logo=next.js) ![nestjs](https://img.shields.io/badge/nestjs-b9f0e9?style=for-the-badge&logo=nestjs) ![react](https://img.shields.io/badge/react-b9f0e9?style=for-the-badge&logo=react)
 
-![flutter](https://img.shields.io/badge/flutter-faadf2?style=for-the-badge&logo=flutter)
+<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
-![mysql](https://img.shields.io/badge/mysql-faf260?style=for-the-badge&logo=mysql) ![postgresql](https://img.shields.io/badge/postgresql-faf260?style=for-the-badge&logo=postgresql) ![oracle](https://img.shields.io/badge/oracle-faf260?style=for-the-badge&logo=oracle)
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/wervlad)
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/wervlad)
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/wervlad)
+
 <div align="center">
     <div align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=jun-young1993&show_icons=true&theme=radical" />        
