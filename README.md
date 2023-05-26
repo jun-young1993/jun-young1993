@@ -21,7 +21,7 @@
 ![DCO](https://img.shields.io/badge/DCO-signed-blue.svg)
 ![Profile views](https://komarev.com/ghpvc/?username=jun-young1993)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/jun-young1993/jun-young1993.svg)
 
 
