@@ -1,10 +1,10 @@
 <h1 align="center"> 👋 반갑습니다 </h1>
 <p align="center">
     개발자 김준영 입니다, 흥미로운 프로젝트가 있으면 연락주세요.
+    <br/>
     Hello, my name is Junyoung Kim. If you have any interesting projects, please contact me.
-    
-    fell free to contact me 
-    <strong><em>juny3738@gmail.com</em></strong>
+    <br/>
+    fell free to contact me  <strong><em>juny3738@gmail.com</em></strong>
 </p>
 <br />
 
