@@ -36,8 +36,6 @@
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/wervlad)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jun-young1993&show_icons=true&theme=radical" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-young1993&layout=donut-vertical" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=jun-young1993&show_icons=true&theme=radical" />
 </p>
