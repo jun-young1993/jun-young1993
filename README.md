@@ -15,7 +15,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)               ![Stars](https://img.shields.io/github/stars/jun-young1993.svg?style=social)
 ![Followers](https://img.shields.io/github/followers/jun-young1993.svg?style=social)
 ![GitHub Languages](https://img.shields.io/github/languages/count/jun-young1993/jun-young1993.svg)
+![GitHub code size](https://img.shields.io/github/languages/code-size/jun-young1993/jun-young1993.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/jun-young1993/jun-young1993.svg)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jun-young1993/jun-young1993.svg)
+![DCO](https://img.shields.io/badge/DCO-signed-blue.svg)
+
+
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/jun-young1993/jun-young1993.svg)
+
 
 
 
