@@ -7,7 +7,8 @@
     Hello, my name is Junyoung Kim. If you have any interesting projects, please contact me.    
 </p>
 <p align="center">
-    fell free to contact me  <strong><em>juny3738@gmail.com</em></strong>
+    fell free to contact me  
+    <strong><em>juny3738@gmail.com</em></strong>
 </p>
 <br/>
 <br />
