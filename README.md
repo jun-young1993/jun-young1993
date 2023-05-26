@@ -10,6 +10,9 @@
     <strong><em>juny3738@gmail.com</em></strong>
 </p>
 <br />
+<strong><h2>↪Site</h2></strong>
+![PHP](https://img.shields.io/badge/blog-8ed11a?style=for-the-badge&logo=php) ![laravel](https://img.shields.io/badge/laravel-8ed95a?style=for-the-badge&logo=blogger)
+<br />
 <strong><h2>👨‍💻Tech Stack</h2></strong>
 
 ![PHP](https://img.shields.io/badge/php-8ed95a?style=for-the-badge&logo=php) ![laravel](https://img.shields.io/badge/laravel-8ed95a?style=for-the-badge&logo=laravel)
