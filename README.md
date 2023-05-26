@@ -19,6 +19,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/jun-young1993/jun-young1993.svg)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jun-young1993/jun-young1993.svg)
 ![DCO](https://img.shields.io/badge/DCO-signed-blue.svg)
+![Profile views](https://komarev.com/ghpvc/?username=jun-young1993)
 
 
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/jun-young1993/jun-young1993.svg)
