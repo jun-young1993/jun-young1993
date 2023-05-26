@@ -8,6 +8,8 @@
 </p>
 <p align="center">
     fell free to contact me  
+</p>
+<p align="center">
     <strong><em>juny3738@gmail.com</em></strong>
 </p>
 <br/>
