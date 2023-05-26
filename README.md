@@ -12,7 +12,9 @@
 <br />
 <strong><h2>↪Site</h2></strong>
 
-![PHP](https://img.shields.io/badge/blog-8ed11a?style=for-the-badge&logo=blogger)
+<a href="https://juny-blog.vercel.app">
+    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+</a>
 
 <br />
 
