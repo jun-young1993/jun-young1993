@@ -1,8 +1,10 @@
 <h1 align="center"> 👋 반갑습니다 </h1>
 <p align="center">
-    2019.03.18 부터 개발자를 시작하고 있는 김준영 입니다.
+    개발자 김준영 입니다, 흥미로운 프로젝트가 있으면 연락주세요.
     <br />
-    흥미로운 프로젝트가 있으면 연락주세요.
+    Hello, my name is Junyoung Kim. If you have any interesting projects, please contact me.
+    <br />
+    
     <br />
     fell free to contact me 
     <br />
