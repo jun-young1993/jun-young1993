@@ -14,7 +14,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)               ![Stars](https://img.shields.io/github/stars/jun-young1993.svg?style=social)
 ![Followers](https://img.shields.io/github/followers/jun-young1993.svg?style=social)
-![Pull Requests](https://img.shields.io/github/issues-pr/jun-young1993/jun-young1993.svg)
 
 
 
