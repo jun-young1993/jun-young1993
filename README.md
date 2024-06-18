@@ -8,15 +8,20 @@
 <p align="center">
     <strong><em>juny3738@gmail.com</em></strong>
 </p>
-<br/>
-<br />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jun-young1993)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<h1>Working On</h1>
+![nextjs-github-blog](https://github.com/jun-young1993/nextjs-github-blog)
+
+
+
 
 <br />
 <strong><h2>↪Site</h2></strong>
 
-<a href="https://juny-blog.vercel.app">
+<a href="https://juny.blog">
     <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
 </a>
 
