@@ -9,7 +9,7 @@
     <strong><em>juny3738@gmail.com</em></strong>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jun-young1993)]
+![trophy](https://github-profile-trophy.vercel.app/?username=jun-young1993)
 
 
 ## Working On
