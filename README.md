@@ -9,7 +9,7 @@
     <strong><em>juny3738@gmail.com</em></strong>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qpeckin&label=Profile%20views&color=ba0bea&style=flat" alt="qpeckin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jun-young1993&label=Profile%20views&color=ba0bea&style=flat" alt="qpeckin" /> </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=jun-young1993)
 
