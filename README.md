@@ -17,7 +17,7 @@
 ## Working On
 
 - [nextjs-github-blog](https://github.com/jun-young1993/nextjs-github-blog)
-- [nextjs-github-blog](https://github.com/jun-young1993/data-structure)
+- [data-structure](https://github.com/jun-young1993/data-structure)
 
 
 
