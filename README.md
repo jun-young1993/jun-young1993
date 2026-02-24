@@ -1,61 +1,38 @@
-<h1 align="center"> 👋 hi, there </h1>
-<p align="center">
-    Hello, my name is Junyoung Kim. 
-</p>
-<p align="center">
-<!--     fell free to contact me   -->
-</p>
-<p align="center">
-    <strong><em>juny3738@gmail.com</em></strong>
+# 👋 Hello, I'm Junyoung Kim
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jun-young1993&label=Profile%20views&color=6e5494&style=flat-square" alt="jun-young1993" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jun-young1993&label=Profile%20views&color=ba0bea&style=flat" alt="qpeckin" /> </p>
+> **Full-stack & App Developer** focused on building high-performance applications.
+> 🚀 Currently dedicated to **App development & monetization**, successfully launching projects on **Google Play Store & App Store**.
+> 📧 Contact: **[juny3738@gmail.com](mailto:juny3738@gmail.com)** | 🏠 Blog: **[juny.blog](https://juny.blog)**
 
-![trophy](https://github-profile-trophy.vercel.app/?username=jun-young1993)
-
-
-## Working On
-
-- [nextjs-github-blog](https://github.com/jun-young1993/nextjs-github-blog)
-- [data-structure](https://github.com/jun-young1993/data-structure)
+---
 
 
+---
+
+### 🛠 Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Mobile / Desktop** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
+
+---
+
+### 🚀 Working On
 
 
-<br />
-<strong><h2>↪Site</h2></strong>
+---
 
-<a href="https://juny.blog">
-    <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
-</a>
+---
 
-<br />
-
-<strong><h2>👨‍💻Tech Stack</h2></strong>
-<div>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-
-
-<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</div>
-
-<strong><h2>📊Stat</h2></strong>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jun-young1993&show_icons=true&theme=radical" />        
+  <a href="https://juny.blog">
+    <img src="https://img.shields.io/badge/Visit%20My%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jun-young1993&layout=donut-vertical" />
-</p>
-
