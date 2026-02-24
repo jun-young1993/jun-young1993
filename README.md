@@ -5,8 +5,12 @@
 </p>
 
 > **Full-stack & App Developer** focused on building high-performance applications.
+> 
 > 🚀 Currently dedicated to **App development & monetization**, successfully launching projects on **Google Play Store & App Store**.
-> 📧 Contact: **[juny3738@gmail.com](mailto:juny3738@gmail.com)** | 🏠 Blog: **[juny.blog](https://juny.blog)**
+> 
+> 📧 Contact: **[juny3738@gmail.com](mailto:juny3738@gmail.com)**
+>
+> 🏠 Blog: **[juny.blog](https://juny.blog)**
 
 ---
 
