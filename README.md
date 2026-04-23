@@ -30,7 +30,10 @@
 
 ### 🚀 Working On
 
+**[AI Remote Vibe Agent](https://github.com/jun-young1993/ai_remote_vibe_agent_release)**
 
+**Code by Vibe, Powered by Mobile.**
+Why stay tethered to a desk? I'm building a specialized PC Agent + Mobile ecosystem that brings the complete AI-assisted coding experience to your fingertips. High-performance terminal streaming for the modern developer.
 ---
 
 ---
